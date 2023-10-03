@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaghayegh-Aflatounian
 - 👀 I’m interested in machine learning to answer business questions
-- 🌱 I’m currently learning Feature engineering
+- 🌱 I’m currently learning Econometrics
 - 💞️ I’m looking to collaborate on Sustainability/ Urban ML Lab, Economics Lab
 - 📫 How to reach me 
 
